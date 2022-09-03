@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Alireza Zolanvari"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate in Optimization and Decision Systems"
+  location         : "Groningen, Netherlands"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XEVaL4wAAAAJ&hl=en&oi=ao"
   email            : "a.zolanvari@rug.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -112,8 +112,8 @@ author:
   twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             : "https://www.youtube.com/channel/UCQDBDkhp4Yf-eCnBqHKlfzg"
-  youtube          :
+  xing             : 
+  youtube          : "https://www.youtube.com/channel/UCQDBDkhp4Yf-eCnBqHKlfzg"
   wikipedia        :
 
 
