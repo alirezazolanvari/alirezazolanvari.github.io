@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Alireza Zolanvari"
-  avatar           : "profile.png"
+  avatar           : "Profile.JPG"
   bio              : "PhD Candidate in Optimization and Decision Systems"
   location         : "Groningen, Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XEVaL4wAAAAJ&hl=en&oi=ao"
-  email            : "a.zolanvari@rug.nl"
+  email            : # "a.zolanvari@rug.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,17 +103,17 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "alireza-zolanvari"
-  orcid            : "https://orcid.org/0000-0003-2367-8343"
+  orcid            : # "https://orcid.org/0000-0003-2367-8343"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://datascience.stackexchange.com/users/64596/alireza-zolanvari
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "AZolanvari"
   vine             :
   weibo            :
   xing             : 
-  youtube          : "https://www.youtube.com/channel/UCQDBDkhp4Yf-eCnBqHKlfzg"
+  youtube          : # "https://www.youtube.com/channel/UCQDBDkhp4Yf-eCnBqHKlfzg"
   wikipedia        :
 
 
